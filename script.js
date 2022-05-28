@@ -1,0 +1,1 @@
+var nome = "Manoel"; // se mudar nome -> atualiza page
